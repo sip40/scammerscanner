@@ -1,2 +1,2 @@
 # scammerscanner
-A multi-SQL project to detect scam traffic on your VoIP network.
+A multi-SQL project to detect scam potential traffic on your VoIP network.
